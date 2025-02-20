@@ -1,0 +1,16 @@
+name: zurfing
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.0
+  - pip
+  - jupyterlab
+  - numpy
+  - tskit
+  - scipy
+  - tqdm
+  - matplotlib
+  - msprime
+  - pandas
+  - pip:
+    - "git+https://github.com/osmond-lab/sparg"
