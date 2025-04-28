@@ -11,6 +11,7 @@ dependencies:
   - tqdm
   - matplotlib
   - msprime
+  - pyslim
   - pandas
   - pip:
     - "git+https://github.com/osmond-lab/sparg"
