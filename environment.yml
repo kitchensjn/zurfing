@@ -13,5 +13,6 @@ dependencies:
   - msprime
   - pyslim
   - pandas
+  - plotly
   - pip:
     - "git+https://github.com/osmond-lab/sparg"
